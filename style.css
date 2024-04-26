@@ -1,0 +1,60 @@
+body{
+background-color: bisque;
+font-family: cursive;
+}
+h1{
+    background-color: aqua;
+   text-align: center;
+   width: 100%;
+   height: 80px;
+ padding-top: 25px;
+   box-sizing: border-box;
+   
+   
+}
+h2{
+    background-color: aqua;
+   text-align: center;
+   width: 100%;
+   height: 50px;
+   padding-top: 15px;
+   box-sizing: border-box;
+}
+table{
+    height: 30px;
+    border: 1px solid;
+    width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: orangered;
+    box-sizing: border-box;
+}
+th,td{
+    border: 1px solid;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:link{
+    text-decoration: none;
+    color: #000;
+}
+td:hover{
+    color: orangered;
+    background-color: yellow;
+    font-size: 20px;
+    cursor: pointer;
+}
+a:link:hover{
+    color: orangered;
+    background-color: yellow;
+    cursor: pointer;
+}
+button:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+}
